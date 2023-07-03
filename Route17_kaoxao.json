@@ -1,0 +1,1736 @@
+{
+  "version" : {
+    "major" : 4,
+    "minor" : 14,
+    "build" : 1283,
+    "component" : "DATABASE"
+  },
+  "payloadProfiles" : [ {
+    "name" : "DJI Zenmuse L1 (3:2)",
+    "shortName" : null,
+    "payloadType" : "CAMERA",
+    "imageKey" : "dji_zenmuse_l1",
+    "parameters" : {
+      "weight" : 0.93,
+      "frequency" : 0.0,
+      "power" : 0.0,
+      "trueFocalLength" : 0.014,
+      "sensorWidth" : 0.0211,
+      "sensorHeight" : 0.0141,
+      "sensorHorizontalPixels" : 5472.0,
+      "sensorVerticalPixels" : 3648.0,
+      "minTriggeringInterval" : 1.0,
+      "scanningFov" : null,
+      "scanningRange" : null,
+      "scanningSpeed" : null
+    }
+  }, {
+    "name" : "DJI Zenmuse H20N (Wide)",
+    "shortName" : null,
+    "payloadType" : "CAMERA",
+    "imageKey" : "dji_zenmuse_h20n",
+    "parameters" : {
+      "weight" : 0.878,
+      "frequency" : 0.0,
+      "power" : 0.0,
+      "trueFocalLength" : 0.0045,
+      "sensorWidth" : 0.00537,
+      "sensorHeight" : 0.00429,
+      "sensorHorizontalPixels" : 1920.0,
+      "sensorVerticalPixels" : 1080.0,
+      "minTriggeringInterval" : 3.0,
+      "scanningFov" : null,
+      "scanningRange" : null,
+      "scanningSpeed" : null
+    }
+  }, {
+    "name" : "DJI Zenmuse L1 (16:9)",
+    "shortName" : null,
+    "payloadType" : "CAMERA",
+    "imageKey" : "dji_zenmuse_l1",
+    "parameters" : {
+      "weight" : 0.93,
+      "frequency" : 0.0,
+      "power" : 0.0,
+      "trueFocalLength" : 0.014,
+      "sensorWidth" : 0.0211,
+      "sensorHeight" : 0.0119,
+      "sensorHorizontalPixels" : 5472.0,
+      "sensorVerticalPixels" : 3078.0,
+      "minTriggeringInterval" : 1.0,
+      "scanningFov" : null,
+      "scanningRange" : null,
+      "scanningSpeed" : null
+    }
+  }, {
+    "name" : "DJI Zenmuse L1 (4:3)",
+    "shortName" : null,
+    "payloadType" : "CAMERA",
+    "imageKey" : "dji_zenmuse_l1",
+    "parameters" : {
+      "weight" : 0.93,
+      "frequency" : 0.0,
+      "power" : 0.0,
+      "trueFocalLength" : 0.014,
+      "sensorWidth" : 0.0188,
+      "sensorHeight" : 0.0141,
+      "sensorHorizontalPixels" : 4864.0,
+      "sensorVerticalPixels" : 3648.0,
+      "minTriggeringInterval" : 1.0,
+      "scanningFov" : null,
+      "scanningRange" : null,
+      "scanningSpeed" : null
+    }
+  }, {
+    "name" : "DJI Zenmuse H20T (Thermal)",
+    "shortName" : null,
+    "payloadType" : "CAMERA",
+    "imageKey" : "dji_zenmuse_h20t",
+    "parameters" : {
+      "weight" : 0.828,
+      "frequency" : 0.0,
+      "power" : 0.0,
+      "trueFocalLength" : 0.0135,
+      "sensorWidth" : 0.00814655,
+      "sensorHeight" : 0.00651724,
+      "sensorHorizontalPixels" : 640.0,
+      "sensorVerticalPixels" : 512.0,
+      "minTriggeringInterval" : 1.0,
+      "scanningFov" : null,
+      "scanningRange" : null,
+      "scanningSpeed" : null
+    }
+  }, {
+    "name" : "DJI Zenmuse H20T/H20 (Wide)",
+    "shortName" : null,
+    "payloadType" : "CAMERA",
+    "imageKey" : "dji_zenmuse_h20t",
+    "parameters" : {
+      "weight" : 0.828,
+      "frequency" : 0.0,
+      "power" : 0.0,
+      "trueFocalLength" : 0.0045,
+      "sensorWidth" : 0.0065625,
+      "sensorHeight" : 0.00491864,
+      "sensorHorizontalPixels" : 4056.0,
+      "sensorVerticalPixels" : 3040.0,
+      "minTriggeringInterval" : 1.0,
+      "scanningFov" : null,
+      "scanningRange" : null,
+      "scanningSpeed" : null
+    }
+  }, {
+    "name" : "DJI Zenmuse H20T/H20 (Zoom)",
+    "shortName" : null,
+    "payloadType" : "CAMERA",
+    "imageKey" : "dji_zenmuse_h20t",
+    "parameters" : {
+      "weight" : 0.828,
+      "frequency" : 0.0,
+      "power" : 0.0,
+      "trueFocalLength" : 0.00683,
+      "sensorWidth" : 0.0095,
+      "sensorHeight" : 0.0057,
+      "sensorHorizontalPixels" : 5184.0,
+      "sensorVerticalPixels" : 3888.0,
+      "minTriggeringInterval" : 1.0,
+      "scanningFov" : null,
+      "scanningRange" : null,
+      "scanningSpeed" : null
+    }
+  }, {
+    "name" : "DJI Zenmuse P1 (24 mm)",
+    "shortName" : null,
+    "payloadType" : "CAMERA",
+    "imageKey" : "dji_zenmuse_p1_24",
+    "parameters" : {
+      "weight" : 0.8,
+      "frequency" : 0.0,
+      "power" : 20.0,
+      "trueFocalLength" : 0.024,
+      "sensorWidth" : 0.0359,
+      "sensorHeight" : 0.024,
+      "sensorHorizontalPixels" : 8192.0,
+      "sensorVerticalPixels" : 5460.0,
+      "minTriggeringInterval" : 1.0,
+      "scanningFov" : null,
+      "scanningRange" : null,
+      "scanningSpeed" : null
+    }
+  }, {
+    "name" : "DJI Zenmuse P1 (35 mm)",
+    "shortName" : null,
+    "payloadType" : "CAMERA",
+    "imageKey" : "dji_zenmuse_p1_35",
+    "parameters" : {
+      "weight" : 0.8,
+      "frequency" : 0.0,
+      "power" : 20.0,
+      "trueFocalLength" : 0.035,
+      "sensorWidth" : 0.0359,
+      "sensorHeight" : 0.024,
+      "sensorHorizontalPixels" : 8192.0,
+      "sensorVerticalPixels" : 5460.0,
+      "minTriggeringInterval" : 1.0,
+      "scanningFov" : null,
+      "scanningRange" : null,
+      "scanningSpeed" : null
+    }
+  }, {
+    "name" : "DJI Zenmuse P1 (50 mm)",
+    "shortName" : null,
+    "payloadType" : "CAMERA",
+    "imageKey" : "dji_zenmuse_p1_50",
+    "parameters" : {
+      "weight" : 0.8,
+      "frequency" : 0.0,
+      "power" : 20.0,
+      "trueFocalLength" : 0.05,
+      "sensorWidth" : 0.0359,
+      "sensorHeight" : 0.024,
+      "sensorHorizontalPixels" : 8192.0,
+      "sensorVerticalPixels" : 5460.0,
+      "minTriggeringInterval" : 1.0,
+      "scanningFov" : null,
+      "scanningRange" : null,
+      "scanningSpeed" : null
+    }
+  } ],
+  "vehicleProfiles" : [ {
+    "name" : "DJI Matrice 300 RTK from import 2023-06-30",
+    "vehicleType" : "MULTICOPTER",
+    "modelKey" : "dji_matrice_300",
+    "imageKey" : "dji_matrice_300",
+    "platformCode" : "DjiMatrice300RTK",
+    "primary" : true,
+    "payloadProfiles" : [ "DJI Zenmuse H20T/H20 (Wide)", "DJI Zenmuse H20T/H20 (Zoom)", "DJI Zenmuse H20T (Thermal)", "DJI Zenmuse P1 (24 mm)", "DJI Zenmuse P1 (35 mm)", "DJI Zenmuse P1 (50 mm)", "DJI Zenmuse L1 (16:9)", "DJI Zenmuse L1 (3:2)", "DJI Zenmuse L1 (4:3)", "DJI Zenmuse H20N (Wide)" ],
+    "parameters" : {
+      "height" : 0.43,
+      "width" : 0.67,
+      "length" : 0.81,
+      "maxClimbRate" : 5.0,
+      "maxHorizontalSpeed" : 17.0,
+      "maxAltitude" : 8000.0,
+      "maxWaypoints" : 65535.0,
+      "maxFlightTime" : 3300.0,
+      "windResistance" : 12.0,
+      "dryTakeoffWeight" : 6.3,
+      "maxTakeoffWeight" : 9.0,
+      "batteryWeight" : 1.36,
+      "chargedBatteryVoltage" : 52.8,
+      "dischargedBatteryVoltage" : 46.8,
+      "normalBatteryVoltage" : 49.2,
+      "lowBatteryVoltage" : 48.0,
+      "lowGpsSatellites" : 7.0,
+      "normalGpsSatellites" : 9.0,
+      "safeDistanceToTerrain" : 15.0,
+      "safeDistanceToObstacle" : 10.0,
+      "waypointAcceptanceRadius" : 4.0,
+      "fenceRadius" : 3000.0,
+      "fenceAltitude" : 250.0,
+      "lowTelemetryLevel" : 50.0,
+      "normalTelemetryLevel" : 70.0,
+      "defaultClimbRate" : 3.0,
+      "defaultDescentRate" : 3.0,
+      "glideSlope" : null,
+      "defaultHorizontalSpeed" : 6.0,
+      "landingGroundSpeed" : null,
+      "maxAltitudeAgl" : 600.0,
+      "landingFlareAltitude" : null,
+      "landingFlareTime" : null,
+      "minLandingPitch" : null,
+      "landingFlareDamp" : null,
+      "landingApproachAirspeed" : null,
+      "landingSpeedWeighting" : null,
+      "maxAutoFlightPitch" : null,
+      "maxPitch" : null,
+      "minThrottle" : null,
+      "landingSinkRate" : null,
+      "landingRangefinderEnabled" : null,
+      "minRangefinderDistance" : null,
+      "maxDescentRate" : 4.0,
+      "lowBatteryPowerLevel" : 30.0,
+      "normalBatteryPowerLevel" : 40.0,
+      "maxRangefinderDistance" : 20.0,
+      "minDistanceBetweenWaypoint" : 1.0
+    }
+  } ],
+  "route" : {
+    "name" : "Route 17",
+    "creationTime" : 1680711440279,
+    "scheduledTime" : 1680711960963,
+    "startDelay" : 0.0,
+    "vehicleProfile" : "DJI Matrice 300 RTK from import 2023-06-30",
+    "trajectoryType" : null,
+    "safeAltitude" : 450.0,
+    "maxAltitude" : 500.0,
+    "initialSpeed" : 0.0,
+    "maxSpeed" : 0.0,
+    "failsafes" : {
+      "rcLost" : "CONTINUE",
+      "gpsLost" : null,
+      "lowBattery" : null,
+      "datalinkLost" : null
+    },
+    "checkAerodromeNfz" : true,
+    "checkCustomNfz" : false,
+    "segments" : [ {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06937801796714149,
+        "longitude" : 1.7850650874476226,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06937803097682549,
+        "longitude" : 1.7850690164542948,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06937804398650993,
+        "longitude" : 1.7850729454627121,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06937805699619437,
+        "longitude" : 1.7850768744693848,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06937807000238783,
+        "longitude" : 1.7850808034778023,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06937808301032655,
+        "longitude" : 1.7850847324862196,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06937809601477474,
+        "longitude" : 1.7850886614928925,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06937810901922337,
+        "longitude" : 1.7850925904995645,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06937812202192628,
+        "longitude" : 1.7850965195079826,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.0693781350246292,
+        "longitude" : 1.7851004485146544,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06937814802558684,
+        "longitude" : 1.785104377523072,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06937816102654404,
+        "longitude" : 1.7851083065297448,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06937817402401114,
+        "longitude" : 1.7851122355381621,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06937818702322351,
+        "longitude" : 1.7851161645448341,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.0693782000189449,
+        "longitude" : 1.7851200935532514,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06937821301466673,
+        "longitude" : 1.7851240225599234,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06937822601038812,
+        "longitude" : 1.7851279515683416,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06937823900261941,
+        "longitude" : 1.7851318805750136,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06937825199659553,
+        "longitude" : 1.785135809583432,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.0693782649870811,
+        "longitude" : 1.7851397385901038,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06937827797756668,
+        "longitude" : 1.785143667598522,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06937829096630699,
+        "longitude" : 1.785147596605194,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.0693783039550473,
+        "longitude" : 1.7851515256136112,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06937831694204233,
+        "longitude" : 1.7851554546202832,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06937832992903736,
+        "longitude" : 1.7851593836287014,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06937834291254141,
+        "longitude" : 1.7851633126371185,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06937835589779118,
+        "longitude" : 1.7851672416437907,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.0693783688795504,
+        "longitude" : 1.7851711706522089,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06937838186130918,
+        "longitude" : 1.7851750996588809,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06937839484306796,
+        "longitude" : 1.7851790286672982,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06937840782133664,
+        "longitude" : 1.785182957673971,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06937842079960488,
+        "longitude" : 1.7851868866823883,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06937843377787312,
+        "longitude" : 1.7851908156908056,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06937844675439608,
+        "longitude" : 1.7851947446974785,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06937845972917378,
+        "longitude" : 1.7851986737058958,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06937847270395148,
+        "longitude" : 1.7852026027125678,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.0693784856769839,
+        "longitude" : 1.785206531720986,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06937849864827061,
+        "longitude" : 1.7852104607294033,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06937851161955777,
+        "longitude" : 1.7852143897360762,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06937852458909921,
+        "longitude" : 1.7852183187444934,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.0693785375586411,
+        "longitude" : 1.7852222477511654,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06937855052643727,
+        "longitude" : 1.7852261767595825,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06937856349248861,
+        "longitude" : 1.785230105768001,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06937858123550544,
+        "longitude" : 1.7852354822879226,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06936911806204682,
+        "longitude" : 1.7852355132465723,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 4.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06936910032252008,
+        "longitude" : 1.785230136728396,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 3.5,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06936908735646918,
+        "longitude" : 1.7852262077234693,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 3.5,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06936907439041828,
+        "longitude" : 1.7852222787185426,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 3.5,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06936906142436694,
+        "longitude" : 1.785218349713615,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 3.5,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06936904845657077,
+        "longitude" : 1.785214420708688,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 3.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06936903548702889,
+        "longitude" : 1.7852104917020162,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 2.5,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06936902251574217,
+        "longitude" : 1.7852065626970897,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 2.5,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06936900954445502,
+        "longitude" : 1.7852026336921618,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 2.5,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06936899657316786,
+        "longitude" : 1.785198704687235,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 2.5,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06936898359839017,
+        "longitude" : 1.7851947756823086,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 2.5,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06936897062361291,
+        "longitude" : 1.7851908466773816,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 3.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06936895764883522,
+        "longitude" : 1.7851869176724549,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 3.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06936894467231225,
+        "longitude" : 1.7851829886675272,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 4.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06936893169404357,
+        "longitude" : 1.7851790596608552,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06936891871577533,
+        "longitude" : 1.7851751306559285,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06936890573576182,
+        "longitude" : 1.7851712016510017,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06936889275400304,
+        "longitude" : 1.785167272646074,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06936887977224382,
+        "longitude" : 1.7851633436411474,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06936886678873933,
+        "longitude" : 1.7851594146362206,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06936885380523528,
+        "longitude" : 1.785155485631294,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06936884081998551,
+        "longitude" : 1.7851515566263672,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06936882783299048,
+        "longitude" : 1.7851476276214395,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06936881484599589,
+        "longitude" : 1.7851436986165128,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06936880185725558,
+        "longitude" : 1.785139769611586,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06936878886676956,
+        "longitude" : 1.7851358406066593,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06936877587628398,
+        "longitude" : 1.7851319115999864,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06936876288405314,
+        "longitude" : 1.7851279825950597,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06936874989182229,
+        "longitude" : 1.785124053590133,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06936873689784573,
+        "longitude" : 1.7851201245852053,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06936872390212434,
+        "longitude" : 1.7851161955802786,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06936871090640295,
+        "longitude" : 1.7851122665753518,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06936869790893585,
+        "longitude" : 1.785108337570425,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06936868491146875,
+        "longitude" : 1.7851044085654983,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06936867191225637,
+        "longitude" : 1.7851004795605707,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06936865891129917,
+        "longitude" : 1.785096550555644,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06936864591034153,
+        "longitude" : 1.7850926215507172,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06936863290763862,
+        "longitude" : 1.7850886925475358,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06936861990318999,
+        "longitude" : 1.7850847635408638,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.0693686068987418,
+        "longitude" : 1.7850808345359361,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06936859389429362,
+        "longitude" : 1.7850769055310094,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06936858088635489,
+        "longitude" : 1.7850729765260829,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06936856787841572,
+        "longitude" : 1.785069047521156,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.069368554870477,
+        "longitude" : 1.7850651185162292,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.0693753198108924,
+        "longitude" : 1.7850647790260084,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 7.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.06937763371948069,
+        "longitude" : 1.785083518500434,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 7.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    }, {
+      "type" : "Waypoint",
+      "actions" : [ ],
+      "point" : {
+        "latitude" : 0.0693902855456221,
+        "longitude" : 1.78514896717659,
+        "altitude" : 25.0,
+        "altitudeType" : "AGL"
+      },
+      "parameters" : {
+        "avoidObstacles" : true,
+        "avoidTerrain" : true,
+        "speed" : 5.0,
+        "wpTurnType" : "STRAIGHT",
+        "altitudeType" : "AGL"
+      }
+    } ],
+    "takeoffHeight" : 0.0
+  }
+}
